@@ -6,7 +6,7 @@
 import scrapy
 
 
-class ScrapyMiniProjectItem(scrapy.Item):
+class MiniProjItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass
